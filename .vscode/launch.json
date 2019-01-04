@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DrawLine",
+            "request": "launch",
+            "mainClass": "DrawLine"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Graphics",
+            "request": "launch",
+            "mainClass": "Graphics"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "Hello"
+        }
+    ]
+}
